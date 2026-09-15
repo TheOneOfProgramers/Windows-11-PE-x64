@@ -7,5 +7,5 @@ A x64 bit Processor.
 The first prototype has been created in Tuesday, June 23, 2026, 13:33:58
 # Nasze projekty mają problem :(
 Nie w kodzie ani w plikach tylko że wakacje się skończyły i wtedy mamy ograniczone działania i czas więc za utrudnienia przepraszamy.
-
-'Projekt jest nadal kontynuowany i będzie aktualizowany przez nawet rok'
+# Warunek projektu i utrudnień
+Projekt jest nadal kontynuowany i będzie aktualizowany przez nawet rok albo więcej 
